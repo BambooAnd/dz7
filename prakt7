@@ -3,11 +3,11 @@
 3)git add prakt7
 4)git commit -m "commit1"
 5)git branch -M main
-6)git remote add origin https://github.com/BambooAnd/dz7.git
-7)git push -u origin main
+6)git remote add origin77 https://github.com/BambooAnd/dz7.git
+7)git push -u origin77 main
 8)git init
 git add opisanie7
 git commit -m "commit2"
 git branch -M opisanie
-git remote add origin https://github.com/BambooAnd/dz7.git
-git push -u origin opisanie
+git remote add origin77 https://github.com/BambooAnd/dz7.git
+git push -u origin77 opisanie
