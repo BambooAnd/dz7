@@ -1,4 +1,4 @@
-sudo apt-get install lxc в терминале
+sudo apt-get install lxc
 sudo lxc-create -t download -n myapp -- -d ubuntu -r focal -a amd64
 sudo lxc-create -t download -n dz1 -- -d ubuntu -r focal -a amd64
 sudo lxc-create -t download -n dz2 -- -d ubuntu -r focal -a amd64
